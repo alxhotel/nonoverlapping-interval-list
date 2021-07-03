@@ -1,5 +1,8 @@
 # nonoverlapping-interval-list
 
+[![NPM Version](https://img.shields.io/npm/v/nonoverlapping-interval-list.svg)](https://www.npmjs.com/package/nonoverlapping-interval-list)
+[![Build status](https://github.com/alxhotel/nonoverlapping-interval-list/actions/workflows/ci.yml/badge.svg)](https://github.com/alxhotel/nonoverlapping-interval-list/actions/workflows/ci.yml)
+
 Non-overlapping interval list for NodeJS.
 
 ## Install
