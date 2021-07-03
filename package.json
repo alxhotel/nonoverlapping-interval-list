@@ -1,0 +1,35 @@
+{
+  "name": "nonoverlapping-interval-list",
+  "version": "1.0.2",
+  "description": "Non-overlapping interval list",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:lint && npm run test:tape",
+    "test:lint": "standard",
+    "test:tape": "tape ./tests/*.js"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3",
+    "tape": "^5.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxhotel/nonoverlapping-interval-list.git"
+  },
+  "keywords": [
+    "interval",
+    "intervals",
+    "range",
+    "list",
+    "nonoverlapping",
+    "non-overlapping",
+    "overlapping",
+    "data"
+  ],
+  "author": "Alex <alxmorais8@msn.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alxhotel/nonoverlapping-interval-list/issues"
+  },
+  "homepage": "https://github.com/alxhotel/nonoverlapping-interval-list#readme"
+}
